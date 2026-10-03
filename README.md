@@ -15,7 +15,7 @@ SimCLR implementation for our paper.
 ### [SimSiam.py](codes/SimSiam.py)
 SimSiam implementation for our paper.
 
-## Supplementary Figures and Information
+## Supplementary Information
 ### Data Description
 [**STL-10 dataset**](http://cs.stanford.edu/~acoates/stl10)
 
